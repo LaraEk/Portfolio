@@ -1,0 +1,26 @@
+body {
+  background-color: #0d033d;
+  color: #fff;
+}
+
+.container {
+  margin-top: 7%;
+  margin-left: auto;
+  border: 3px dashed rgb(133, 133, 133);
+  border-radius: 20px;
+  background-color: #12093d;
+}
+
+#projectscontainer {
+  background-color: #1d0d69;
+  color: #fff;
+}
+
+.portfolioitem {
+  margin: 4%;
+  padding: 2px;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: solid 2px #3d24bb;
+}
