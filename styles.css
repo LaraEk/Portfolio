@@ -1,6 +1,24 @@
 body {
+  background-image: linear-gradient(to right, #09051b, #0d033d);
   background-color: #0d033d;
   color: #fff;
+}
+
+h4 {
+  font-family: "Raleway", Sans-Serif;
+  font-size: 44px;
+}
+
+span {
+  background: -webkit-linear-gradient(#e0341d, rgb(253, 111, 111));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+p {
+  padding: 30px;
+  font-family: "Open Sans", Sans-Serif;
+  font-size: 15px;
 }
 
 .container {
@@ -11,8 +29,12 @@ body {
   background-color: #12093d;
 }
 
+.row {
+  margin-bottom: 0px;
+}
+
 #projectscontainer {
-  background-color: #1d0d69;
+  background-image: linear-gradient(to bottom right, #1d0d69, #29158f);
   color: #fff;
 }
 
